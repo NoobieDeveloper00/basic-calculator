@@ -71,8 +71,3 @@ com.kshitiz.basiccalculator
 4. Run on an emulator or a physical Android device.
 
 ---
-
-If you want, I can also **make this README more recruiter-focused** with a short “Why I built this” section so it feels more personal and compelling on your resume and GitHub. That way it doesn’t just look like any calculator project, but a deliberate showcase of your **Jetpack Compose skills**.
-
-Do you want me to add that?
-
