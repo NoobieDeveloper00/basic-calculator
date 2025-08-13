@@ -49,16 +49,6 @@ com.kshitiz.basiccalculator
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here for visual appeal)*
-
-| Light Mode                                 | Dark Mode                                |
-| ------------------------------------------ | ---------------------------------------- |
-| ![Light Screenshot](screenshots/light.png) | ![Dark Screenshot](screenshots/dark.png) |
-
----
-
 ## ⚙️ How It Works
 
 1. **User Interaction**
